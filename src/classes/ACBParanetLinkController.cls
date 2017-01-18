@@ -7,7 +7,7 @@
 *******************************/
 public class ACBParanetLinkController{
    
-    public String url{get;set;}
+    public String url{get;set;
     String userId = UserInfo.getUserId();
     public String getUserId(){
         if(userId == null)
