@@ -1,1 +1,1 @@
-Testing pivotal integration
+Testing pivotal integrations
