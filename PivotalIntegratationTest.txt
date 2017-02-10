@@ -4,3 +4,5 @@ https://www.pivotaltracker.com/story/show/139523601
 one more trial
 finishes #139523601
 normal commit message wont work
+only formatted commit works
+
